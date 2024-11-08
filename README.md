@@ -1,5 +1,5 @@
-                                           [简体中文]()
-
+                                          
+[简体中文](https://github.com/yowaimono/mikan/blob/main/docs/README_zh.md)
 # MinDB: A Minimalistic In-Memory Database
 
 MinDB is a lightweight, in-memory database designed for simplicity and ease of use. It provides basic CRUD operations, query capabilities, and support for unique constraints and default values. MinDB is ideal for small projects, prototypes, or any scenario where you need a quick and easy-to-use database without the overhead of a full-fledged SQL database.
